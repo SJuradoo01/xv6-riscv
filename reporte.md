@@ -99,7 +99,7 @@ Por último, como los procesos pesados de CPU terminan en la cola inferior y pod
 
 ---
 
-### Enlace a la conversación con la IA (Prompt 1)
+### Enlace a la conversación con la IA 
 * **Enlace:** https://share.gemini.google/puANNjXWfMdY
 
 ---
